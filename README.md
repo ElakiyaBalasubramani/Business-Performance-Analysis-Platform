@@ -1,9 +1,5 @@
 # 🚀 Nexus BI: Performance Analysis Platform
 
-![Dashboard Mockup](dashboard_mockup.png)
-
-> **Empowering Strategic Decisions with AI-Driven Data Intel.**
-
 The **Business Performance Analysis Platform** is a sophisticated BI dashboard designed for modern enterprises. It bridges the gap between raw data and strategic execution by combining traditional KPI tracking with cutting-edge Predictive AI and Large Language Models (LLMs).
 
 ---
@@ -62,5 +58,6 @@ streamlit run app.py
 -   [ ] **Unit Economics**: Deep dive into LTV, CAC, and Revenue per Sale.
 -   [ ] **Multi-Currency Support**: For global business analysis.
 -   [ ] **Interactive PDF Reports**: Export high-fidelity quarterly summaries.
+
 
 
