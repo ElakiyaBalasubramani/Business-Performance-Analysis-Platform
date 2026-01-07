@@ -63,5 +63,4 @@ streamlit run app.py
 -   [ ] **Multi-Currency Support**: For global business analysis.
 -   [ ] **Interactive PDF Reports**: Export high-fidelity quarterly summaries.
 
----
-*Built for the next generation of data-driven leaders.*
+
