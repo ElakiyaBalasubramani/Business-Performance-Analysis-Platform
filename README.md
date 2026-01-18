@@ -57,7 +57,7 @@ streamlit run app.py
 -   [ ] **Anomaly Detection**: Automated alerts for statistically significant outliers.
 -   [ ] **Unit Economics**: Deep dive into LTV, CAC, and Revenue per Sale.
 -   [ ] **Multi-Currency Support**: For global business analysis.
--   [ ] **Interactive PDF Reports**: Export high-fidelity quarterly summaries.
+
 
 
 
