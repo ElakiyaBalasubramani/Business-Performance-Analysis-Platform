@@ -41,13 +41,7 @@ graph TD
 pip install -r requirements.txt
 ```
 
-### 2. Configuration
-Create a `.env` file or set your key in the dashboard:
-```bash
-OPENAI_API_KEY='your_api_key'
-```
-
-### 3. Execution
+### 2. Execution
 ```bash
 streamlit run app.py
 ```
@@ -57,6 +51,7 @@ streamlit run app.py
 -   [ ] **Anomaly Detection**: Automated alerts for statistically significant outliers.
 -   [ ] **Unit Economics**: Deep dive into LTV, CAC, and Revenue per Sale.
 -   [ ] **Multi-Currency Support**: For global business analysis.
+
 
 
 
